@@ -10,7 +10,7 @@ export interface IUser {
 }
 
 /**
- * A chat message
+ * A chat message.
  * @public
  */
 export interface IMessage {
