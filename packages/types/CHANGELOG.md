@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/RoystonS/js-ts-monorepos/compare/@shlack/types@0.2.0...@shlack/types@0.2.1) (2020-10-16)
+
+
+### Bug Fixes
+
+* **types:** improve docs ([a3b0edd](https://github.com/RoystonS/js-ts-monorepos/commit/a3b0eddc7c1499a953f1f71f2e4a6d7f14ba0d3d))
+
+
+
+
+
 # 0.2.0 (2020-10-16)
 
 
