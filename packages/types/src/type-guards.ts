@@ -4,7 +4,7 @@ import { IChannel, IMessage, ITeam } from "./types";
 
 /**
  * Check whether a given value is an array where
- * each member is of a specified type
+ * each member is of a specified type.
  *
  * @param arr - array to check
  * @param check - type guard to use when evaluating each item
