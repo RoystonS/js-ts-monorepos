@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/RoystonS/js-ts-monorepos/compare/@shlack/types@0.2.1...@shlack/types@0.2.2) (2020-10-16)
+
+
+### Bug Fixes
+
+* **types:** fix isTypedArray ([fd7a630](https://github.com/RoystonS/js-ts-monorepos/commit/fd7a63031ed946758edc6873dd43b6609255c5c5))
+
+
+
+
+
 ## [0.2.1](https://github.com/RoystonS/js-ts-monorepos/compare/@shlack/types@0.2.0...@shlack/types@0.2.1) (2020-10-16)
 
 
