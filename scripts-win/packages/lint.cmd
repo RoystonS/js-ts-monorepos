@@ -1,2 +1,2 @@
-echo "┏━━━ 🕵️‍♀️ LINT: eslint src --ext ts,js,tsx,jsx ━━━━━━━"
+echo "┏━━━ 🕵️‍♀️ LINT"
 yarn eslint src --ext ts,js,tsx,jsx

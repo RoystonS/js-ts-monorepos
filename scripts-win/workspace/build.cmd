@@ -1,2 +1,2 @@
-echo "┏━━━ 📦 Building Workspace ━━━━━━━━━━━━━━━━━━━"
+echo ┏━━━ 📦 Building Workspace ━━━━━━━━━━━━━━━━━━━
 yarn tsc -b packages

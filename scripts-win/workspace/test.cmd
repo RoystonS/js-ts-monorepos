@@ -1,2 +1,2 @@
-echo "┏━━━ 🎯 TEST: $(pwd) ━━━━━━━━━━━━━━━━━━━"
+echo 🎯 TEST: %CWD%
 yarn lerna run test --stream
