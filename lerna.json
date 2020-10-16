@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "npmClient": "yarn",
-  "version": "0.1.1",
+  "version": "independent",
   "useWorkspaces": true,
   "nohoist": [
     "parcel-bundler"
