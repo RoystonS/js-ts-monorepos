@@ -1,7 +1,9 @@
 {
-    "files": [],
-    "references": [
-        {"path": "types"},
-        {"path": "utils"}
-    ]
+  "files": [],
+  "references": [
+    { "path": "data" },
+    { "path": "types" },
+    { "path": "ui" },
+    { "path": "utils" }
+  ]
 }
