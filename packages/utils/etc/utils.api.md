@@ -13,16 +13,10 @@ export class Deferred<T> {
     // (undocumented)
     get promise(): Promise<T>;
     // (undocumented)
-    _promise: Promise<T>;
-    // (undocumented)
     get reject(): RejectHandler;
     // (undocumented)
-    _reject: RejectHandler;
-    // (undocumented)
     get resolve(): ResolveHandler<T>;
-    // (undocumented)
-    _resolve: ResolveHandler<T>;
-}
+    }
 
 // @public
 export function formatTimestamp(date: Date): string;
