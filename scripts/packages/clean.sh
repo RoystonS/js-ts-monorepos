@@ -1,1 +1,1 @@
-rm -rf dist *.tsbuildinfo
+rm -rf dist temp *.tsbuildinfo
